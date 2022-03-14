@@ -9,7 +9,7 @@
         </div>
         <div class="flex login-box">
           <span>비밀번호 </span>
-          <input class="margin" type="text" v-model="password">
+          <input class="margin" type="password" v-model="password">
         </div>
       </div>
       <div class="flex">
